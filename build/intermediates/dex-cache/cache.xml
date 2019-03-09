@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/57d7c2895afc3e8b2ab7baf0a5dc007edfd60cef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_50aca0b5a583a0849936994a87695a657874c255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/3d87788c01ba6893014ff92e6dbf3c1bbe9a7b61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_dc78557c9b92399fed46f88145b03f43294ff907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/4cef613a6827fb17d98298ef910138fadb6fe42c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_b246581280bdccbd21e10ec83f42a0d73858acf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/adcfd50ed37091d6dad9b83e54553ee662779aca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_b2550c9de9718faa4b55ef1f961429516bdf7e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/8d8e8f9feb25ba9e20cf250edb7e8471bdfd7704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_4bb922fb7bf32f4c9293290aa9f4d0bb10b8f68e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/5f134d03c115caca7be1eed4dd0df4ec293f3700/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_9bf4fc2fb1c2bd890bef88a1cb86a7de9f826df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/3577fc31077ac8923a78df4632cc5a5f1066e2a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_b551b20f620674a6e6877b805692d4eb69318d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/Documents/Asier/USBConn/openCVLibrary330/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="06efacde81395314ee0a47022bfb594e0db83d83">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_58c3ccd9e03963095c0abd0f0ea67cd3b35c1828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/f3cc4c538dee41fe0330b6449453f722bafd9188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_80ebc63cfd275760766a51b5d923a3bd8dc7ddb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/.android/build-cache/8b3acf7bb265e2a78cd7bf5521333a0259742960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/classes_f988c5378161daa8a4d4250d037b0fadef9b199b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bruckw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/bruckw/Documents/Asier/USBConn/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_7fb7502229615ec181462d7a671d90c41768dbda.jar" />
+    </item>
+
+</items>
